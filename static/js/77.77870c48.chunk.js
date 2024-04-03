@@ -1,0 +1,2 @@
+(this["webpackJsonpportfolio-app"]=this["webpackJsonpportfolio-app"]||[]).push([[77],{284:function(n,t,e){"use strict";async function i(n){let t=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];const{CircleDrawer:i}=await e.e(75).then(e.bind(null,297));await n.addShape("circle",new i,t)}e.r(t),e.d(t,"loadCircleShape",(function(){return i}))}}]);
+//# sourceMappingURL=77.77870c48.chunk.js.map

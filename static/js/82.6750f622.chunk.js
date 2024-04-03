@@ -1,0 +1,2 @@
+(this["webpackJsonpportfolio-app"]=this["webpackJsonpportfolio-app"]||[]).push([[82],{277:function(n,t,e){"use strict";e.r(t),e.d(t,"LineDrawer",(function(){return i}));class i{async draw(n){const{drawLine:t}=await e.e(83).then(e.bind(null,293));t(n)}getSidesCount(){return 1}}}}]);
+//# sourceMappingURL=82.6750f622.chunk.js.map

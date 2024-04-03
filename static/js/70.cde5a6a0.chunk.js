@@ -1,0 +1,2 @@
+(this["webpackJsonpportfolio-app"]=this["webpackJsonpportfolio-app"]||[]).push([[70],{185:function(e,t,a){"use strict";async function n(e){var t;let n=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];const r=e,{EmittersSquareShapeGenerator:o}=await a.e(31).then(a.bind(null,321));null===(t=r.addEmitterShapeGenerator)||void 0===t||t.call(r,"square",new o),await r.refresh(n)}a.r(t),a.d(t,"loadEmittersShapeSquare",(function(){return n}))}}]);
+//# sourceMappingURL=70.cde5a6a0.chunk.js.map
