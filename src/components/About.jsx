@@ -27,7 +27,7 @@ const styles = {
   },
   imageStyle: {
     margin: 10,
-    width: '500px',
+    width: '200px',
     display: 'flex',
   },
 };
