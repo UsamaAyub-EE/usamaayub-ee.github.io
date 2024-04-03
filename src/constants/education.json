@@ -2,9 +2,9 @@
     "education":[
         {
             "title": "Oct 2018 - Aug 2022",
-            "cardTitle": "B.Sc, Mechanical Engineering",
+            "cardTitle": "B.Sc, Electrical Engineering",
             "cardSubtitle":"UET, Lahore",
-            "cardDetailedText": "CGPA - 3.007",
+            "cardDetailedText": "CGPA - 3.69",
             "icon" : {
                 "src": "images/education/uet.png"
             }
