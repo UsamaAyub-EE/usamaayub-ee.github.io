@@ -1,0 +1,2 @@
+(this["webpackJsonpportfolio-app"]=this["webpackJsonpportfolio-app"]||[]).push([[33],{227:function(n,t,o){"use strict";o.d(t,"a",(function(){return i}));const i=["emoji"]},259:function(n,t,o){"use strict";o.r(t),o.d(t,"loadEmojiShape",(function(){return a}));var i=o(227);async function a(n){let t=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];const{EmojiDrawer:a}=await o.e(79).then(o.bind(null,274));await n.addShape(i.a,new a,t)}}}]);
+//# sourceMappingURL=33.2b598320.chunk.js.map

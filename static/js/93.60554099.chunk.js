@@ -1,0 +1,2 @@
+(this["webpackJsonpportfolio-app"]=this["webpackJsonpportfolio-app"]||[]).push([[93],{264:function(t,a,n){"use strict";async function o(t){let a=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];const{StarDrawer:o}=await n.e(91).then(n.bind(null,280));await t.addShape("star",new o,a)}n.r(a),n.d(a,"loadStarShape",(function(){return o}))}}]);
+//# sourceMappingURL=93.60554099.chunk.js.map

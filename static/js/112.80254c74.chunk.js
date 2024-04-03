@@ -1,2 +1,0 @@
-(this["webpackJsonpportfolio-app"]=this["webpackJsonpportfolio-app"]||[]).push([[112],{179:function(t,n,o){"use strict";async function a(t){let n=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await t.addParticleUpdater("roll",(async()=>{const{RollUpdater:t}=await o.e(111).then(o.bind(null,313));return new t}),n)}o.r(n),o.d(n,"loadRollUpdater",(function(){return a}))}}]);
-//# sourceMappingURL=112.80254c74.chunk.js.map

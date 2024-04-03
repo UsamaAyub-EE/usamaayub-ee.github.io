@@ -1,2 +1,0 @@
-(this["webpackJsonpportfolio-app"]=this["webpackJsonpportfolio-app"]||[]).push([[53],{257:function(t,n,a){"use strict";async function o(t){let n=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await t.addInteractor("particlesAttract",(async t=>{const{Attractor:n}=await a.e(52).then(a.bind(null,274));return new n(t)}),n)}a.r(n),a.d(n,"loadParticlesAttractInteraction",(function(){return o}))}}]);
-//# sourceMappingURL=53.0f5b1128.chunk.js.map
