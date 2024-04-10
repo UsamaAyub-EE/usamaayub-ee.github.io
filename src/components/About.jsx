@@ -29,6 +29,8 @@ const styles = {
     margin: 10,
     width: '200px',
     display: 'flex',
+    borderRadius: '50%',
+    overflow: 'hidden',
   },
 };
 
