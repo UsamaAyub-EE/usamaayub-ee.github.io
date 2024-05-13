@@ -1,2 +1,0 @@
-(this["webpackJsonpportfolio-app"]=this["webpackJsonpportfolio-app"]||[]).push([[89],{293:function(t,o,n){"use strict";n.r(o),n.d(o,"drawSquare",(function(){return s}));const p=Math.sqrt(2),r=2;function s(t){const{context:o,radius:n}=t,s=n/p,c=s*r;o.rect(-s,-s,c,c)}}}]);
-//# sourceMappingURL=89.896c18e5.chunk.js.map

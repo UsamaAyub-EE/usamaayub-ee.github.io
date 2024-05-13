@@ -1,2 +1,0 @@
-(this["webpackJsonpportfolio-app"]=this["webpackJsonpportfolio-app"]||[]).push([[63],{282:function(n,o,t){"use strict";async function e(n){let o=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await n.addMover("base",(async()=>{const{BaseMover:n}=await t.e(62).then(t.bind(null,295));return new n}),o)}t.r(o),t.d(o,"loadBaseMover",(function(){return e}))}}]);
-//# sourceMappingURL=63.ff384517.chunk.js.map

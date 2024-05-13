@@ -1,0 +1,2 @@
+(this["webpackJsonpportfolio-app"]=this["webpackJsonpportfolio-app"]||[]).push([[64],{252:function(a,n,o){"use strict";async function t(a){let n=!(arguments.length>1&&void 0!==arguments[1])||arguments[1];await a.addMover("parallax",(async()=>{const{ParallaxMover:a}=await o.e(63).then(o.bind(null,269));return new a}),n)}o.r(n),o.d(n,"loadParallaxMover",(function(){return t}))}}]);
+//# sourceMappingURL=64.01844e32.chunk.js.map
