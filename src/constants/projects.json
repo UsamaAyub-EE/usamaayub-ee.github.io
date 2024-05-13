@@ -1,104 +1,19 @@
 {
-    "projects" : [
-        {
-            "image" : "images/projects/obscure.png",
-            "title": "Obscure CTF",
-            "bodyText": "- A Capture the Flag style vulnerable machine.\n -  Involves a Web CVE in Odoo, docker escape and ret2libc attack.\n - Published on TryHackMe.\n - Multiple writeups/walkthroughs.\n",
-            "links": [
-                {
-                    "text": "Writeup",
-                    "href": "https://github.com/Zeeshan12340/writeups/blob/main/obscure.md"
-                },
-                {
-                    "text": "link",
-                    "href": "https://tryhackme.com/room/obscured"
-                }
-            ],
-            "tags" : [
-                "CTF",
-                "Web",
-                "Pwn"
-            ]
-        },
-        {
-            "image" : "images/projects/pwncollege.png",
-            "title": "PyPwnCollege",
-            "bodyText": "- A Python library and CLI(command line interface)\n - Used to interact with pwncollege and also to automate.\n - Published on pypi.\n -  Open Source at Github\n",
-            "links": [
-                {
-                    "text": "PyPi",
-                    "href": "https://pypi.org/project/PyPwnCollege/"
-                },
-                {
-                    "text": "Github",
-                    "href": "https://github.com/zeeshan12340/pypwncollege"
-                }
-            ],
-            "tags" : [
-                "python",
-                "pip",
-                "pwncollege"
-            ]
-        },
-        {
-            "image" : "images/projects/revworks.png",
-            "title": "RevWorks",
-            "bodyText": "- Ruby on Rails Web Application with some basic functionality.\n - Has a Web Race condition and used in a CTF I hosted. \n - Has Docker image and live heroku demo.\n",
-            "links": [
-                {
-                    "text": "demo",
-                    "href": "https://revworks-4e7c9d83d182.herokuapp.com/"
-                },
-                {
-                    "text": "Github",
-                    "href": "https://github.com/zeeshan12340/revworks"
-                }
-                ,
-                {
-                    "text": "thm room",
-                    "href": "https://tryhackme.com/jr/revworks"
-                }
-            ],
-            "tags" : [
-                "ruby",
-                "rails",
-                "CTF",
-                "webapp"
-            ]
-        },
-        {
-            "image" : "images/projects/rust.png",
-            "title": "RustC2",
-            "bodyText": "- Proof of Concept Command and Control Framework written in Rust\n - Has basic features such as reverse shell handling and management, file upload/download, portscan. \n - Open Source at Github",
-            "links": [
-                {
-                    "text": "Github",
-                    "href": "https://github.com/zeeshan12340/rustc2"
-                }
-            ],
-            "tags" : [
-                "rust",
-                "C2"
-            ]
-        },
-        {
-            "image" : "images/projects/twitter.png",
-            "title": "Twitter-Clone",
-            "bodyText": "- Simple Twitter clone with only posts/profile/like/reply functionality.\n - Google oauth2 is setup allowing direct sign-in using google account\n- MongoDB database is used along with S3 bucket for images.\n - Open Source at Github",
-            "links": [
-                {
-                    "text": "live",
-                    "href": "https://twitter-clone-five-psi-76.vercel.app/"
-                },
-                {
-                    "text": "Github",
-                    "href": "https://github.com/zeeshan12340/twitter-clone"
-                }
-            ],
-            "tags" : [
-                "rust",
-                "C2"
-            ]
-        }
-    ]
+  "projects": [
+    {
+      "title": "Studio Booking Tool",
+      "bodyText": "- Immediately after successful completion of training in Ruby on Rails, I was assigned as the sole developer on a complex booking tool project.\n - Worked on both the front-end and the back end of the app to integrate new features.\n - Designed and implemented the interface that allowed users to see conflicts in their bookings with other bookings.\n - Added the feature that allows users to add multiple owners to a single booking.\n - Handled client communication for the project and was directly involved with the communication with the client regarding the work being done on the project.\n",
+      "tags": ["Ruby on Rails", "React"]
+    },
+    {
+      "title": "Packelephant / Heard.io",
+      "bodyText": "- When this project ended, I was placed as the sole developer on another project that had a completely different framework i.e., NestJS backend with NextJS front‑end even though I didn’t have any prior experience or training with NestJS. However, my Lead was confident that I shall be able to pull through.\n - This project is an e-commerce site much like Amazon, but it focuses more on ESG Impact. I implemented the feature that allows users to add multiple shipping addresses for their cart items in a single order.\n - I created the interface that allows users to enter coupon codes to avail discounts on purchases.\n - For the merchant side of the application, I was responsible for the complete revamp of the module that allows merchants to add certifications related to ESG impact.\n - I also created the dynamic landing page that the website uses as an About Us page\n",
+      "tags": ["Nest", "Next", "Graphql", "TypeORM"]
+    },
+    {
+      "title": "Attendance Management System",
+      "bodyText": "- Setup the front-end of an Attendance Management System for Devsinc using NextJS.\n - Shifted from NextJS to React Vite which resulted in substantial improvement in the performance of the app, particularly in development.\n - Designed AMS in such a way that it runs seamlessly inside Devsinc’s existing HRMS MapleHR.io.\n - Designed the filter routing mechanism that the app uses for saving filter values on pages to the search bar allowing users to share filter values simply by copying the search bar.\n - Handled all the issues that arose due to the fact that AMS runs in an iframe inside a parent React app.\n",
+      "tags": ["Ruby on Rails", "React"]
+    }
+  ]
 }
