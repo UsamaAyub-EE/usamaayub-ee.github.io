@@ -21,6 +21,12 @@
           "title": "JavaScript",
           "detail": "Have been using Javascript professionally for over two years now",
           "show": true
+        },
+        {
+          "icon": "images/skills/ruby.svg",
+          "title": "Ruby",
+          "detail": "Used Ruby in projects that had a Rails backend",
+          "show": true
         }
       ]
     },
@@ -37,6 +43,18 @@
           "icon": "images/skills/rubyonrails.png",
           "title": "RubyOnRails",
           "detail": "Worked on two projects that had a Rails backend and a React frontend.",
+          "show": true
+        },
+        {
+          "icon": "images/skills/next-js.svg",
+          "title": "Next",
+          "detail": "Worked on a project with a Next frontend and design the dynamic landing page for that app.",
+          "show": true
+        },
+        {
+          "icon": "images/skills/nestjs.svg",
+          "title": "Nest",
+          "detail": "Worked on an e-commerce app with a Nest backend",
           "show": true
         }
       ]

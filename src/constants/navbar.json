@@ -1,33 +1,29 @@
 {
-    "logo" : {
-        "source": "images/logo.png",
-        "height" : 45,
-        "width" : 50
+  "logo": {
+    "source": "images/logo.png",
+    "height": 45,
+    "width": 50
+  },
+  "sections": [
+    {
+      "title": "Home",
+      "href": "/"
     },
-    "sections": [
-        {
-            "title": "Home",
-            "href": "/"
-        },
-        {
-            "title": "About",
-            "href": "/about"
-        },
-        {
-            "title": "Skills",
-            "href": "/skills"
-        },
-        {
-            "title": "Education",
-            "href": "/education"
-        },
-        {
-            "title": "Projects",
-            "href": "/projects"
-        },
-        {
-            "title": "TicTacToe",
-            "href": "/tictactoe"
-        }
-    ]
+    {
+      "title": "About",
+      "href": "/about"
+    },
+    {
+      "title": "Skills",
+      "href": "/skills"
+    },
+    {
+      "title": "Education",
+      "href": "/education"
+    },
+    {
+      "title": "Projects",
+      "href": "/projects"
+    }
+  ]
 }
