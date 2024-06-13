@@ -7,13 +7,33 @@
     },
     {
       "title": "Packelephant / Heard.io",
-      "bodyText": "- When this project ended, I was placed as the sole developer on another project that had a completely different framework i.e., NestJS backend with NextJS front‑end even though I didn’t have any prior experience or training with NestJS. However, my Lead was confident that I shall be able to pull through.\n - This project is an e-commerce site much like Amazon, but it focuses more on ESG Impact. I implemented the feature that allows users to add multiple shipping addresses for their cart items in a single order.\n - I created the interface that allows users to enter coupon codes to avail discounts on purchases.\n - For the merchant side of the application, I was responsible for the complete revamp of the module that allows merchants to add certifications related to ESG impact.\n - I also created the dynamic landing page that the website uses as an About Us page\n",
-      "tags": ["Nest", "Next", "Graphql", "TypeORM"]
+      "bodyText": "- When this project ended, I was placed as the sole developer on another project that had a completely different framework i.e., NestJS backend with NextJS front-end even though I didn't have any prior experience or training with NestJS. However, my Lead was confident that I shall be able to pull through.\n - This project is an e-commerce site much like Amazon, but it focuses more on ESG Impact. I implemented the feature that allows users to add multiple shipping addresses for their cart items in a single order.\n - I created the interface that allows users to enter coupon codes to avail discounts on purchases.\n - For the merchant side of the application, I was responsible for the complete revamp of the module that allows merchants to add certifications related to ESG impact.\n - I also created the dynamic landing page that the website uses as an About Us page\n",
+      "tags": ["Nest", "Next", "GraphQL", "TypeORM"]
     },
     {
       "title": "Attendance Management System",
       "bodyText": "- Setup the front-end of an Attendance Management System for Devsinc using NextJS.\n - Shifted from NextJS to React Vite which resulted in substantial improvement in the performance of the app, particularly in development.\n - Designed AMS in such a way that it runs seamlessly inside Devsinc’s existing HRMS MapleHR.io.\n - Designed the filter routing mechanism that the app uses for saving filter values on pages to the search bar allowing users to share filter values simply by copying the search bar.\n - Handled all the issues that arose due to the fact that AMS runs in an iframe inside a parent React app.\n",
-      "tags": ["Ruby on Rails", "React"]
+      "tags": ["Ruby on Rails", "React", "Vite"]
+    },
+    {
+      "title": "Bugzilla",
+      "bodyText": "- Developed this test project for tracking bugs in projects during training at Devsinc. This web app handles assignment of QAs and Developers to bugs and projects. GitHub repo link: https://github.com/UsamaAyub-EE/rails-bugzilla\n",
+      "tags": ["Ruby on Rails"]
+    },
+    {
+      "title": "Burger Builder",
+      "bodyText": "- Developed this React test project that is a burger building application. This app has only a frontend in React. GitHub repo link: https://github.com/UsamaAyub-EE/burger_builder\n",
+      "tags": ["React"]
+    },
+    {
+      "title": "Blog App",
+      "bodyText": "- Developed this simple blog app that has a Node backend with MongoDB and a Next frontend. GitHub repo link: https://github.com/UsamaAyub-EE/nodejs-test-project\n",
+      "tags": ["Node", "Next", "MongoDB", "Express"]
+    },
+    {
+      "title": "Dream Job Portal",
+      "bodyText": "- Developed this lab project which is a simple job portal using Django. I also deployed this app at pythonanywhere.com. GitHub repo link: https://github.com/UsamaAyub-EE/Dream_Job_Portal\n",
+      "tags": ["Django"]
     }
   ]
 }

@@ -56,6 +56,12 @@
           "title": "Nest",
           "detail": "Worked on an e-commerce app with a Nest backend",
           "show": true
+        },
+        {
+          "icon": "images/skills/graphql.svg",
+          "title": "GraphQL",
+          "detail": "Used GraphQL in an e-commerce app with a Nest backend",
+          "show": true
         }
       ]
     }
