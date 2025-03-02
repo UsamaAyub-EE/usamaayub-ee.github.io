@@ -68,6 +68,12 @@
           "title": "MongoDB",
           "detail": "Worked on a Warehouse Management System in MERN stack",
           "show": true
+        },
+        {
+          "icon": "images/skills/expressjs.svg",
+          "title": "Express",
+          "detail": "Worked on a Warehouse Management System in MERN stack",
+          "show": true
         }
       ]
     }
