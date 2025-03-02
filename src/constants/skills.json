@@ -62,6 +62,12 @@
           "title": "GraphQL",
           "detail": "Used GraphQL in an e-commerce app with a Nest backend",
           "show": true
+        },
+        {
+          "icon": "images/skills/mongodb.png",
+          "title": "MongoDB",
+          "detail": "Worked on a Warehouse Management System in MERN stack",
+          "show": true
         }
       ]
     }

@@ -16,6 +16,11 @@
       "tags": ["Ruby on Rails", "React", "Vite"]
     },
     {
+      "title": "Warehouse Management System",
+      "bodyText": "- Fixed the styles for DynaMaker (https://dynamaker.com/) using the Styles and the UI tools. This is the tool used for setting up the warehouse.\n - Setup Redux Toolkit along with RTK Query for state management and API integration.\n - Setup communication between the React app and the Dynamaker app which runs in an iframe using the postMessage API which greatly pleased the client.\n - Completed a revamp of the existing auth module on request of the client as it had multiple UI/UX and integration bugs and incomplete functionalities.\n - Developed multiple modules from scratch including Warehouses, Users, Products, Suppliers and Purchase Orders modules.\n - Completed the front‑end and the back‑end for the Sales Orders, Employee Qualifications and Warehouse Management Board modules.\n",
+      "tags": ["MERN","MongoDB", "React", "Vite"]
+    },
+    {
       "title": "Bugzilla",
       "bodyText": "- Developed this test project for tracking bugs in projects during training at Devsinc. This web app handles assignment of QAs and Developers to bugs and projects. GitHub repo link: https://github.com/UsamaAyub-EE/rails-bugzilla\n",
       "tags": ["Ruby on Rails"]
